@@ -1,0 +1,7 @@
+/.env.example
+/.vscode
+/frontend
+/lfm2-vl-vision-chat
+/requirements.txt
+/test_model.py
+/__pycache__
